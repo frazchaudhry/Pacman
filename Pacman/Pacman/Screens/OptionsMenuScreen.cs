@@ -9,7 +9,7 @@ namespace Pacman
     /// screen, and gives the user a chance to configure the game
     /// in various hopefully useful ways.
     /// </summary>
-    class OptionsMenuScreen : MenuScreen
+    class OptionsMenuScreen
     {
     }
 }
